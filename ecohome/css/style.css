@@ -521,5 +521,8 @@ body {
     .main__title span {
         font-size: 20px;
     }
+    .main__header .main__headerArrow {
+        bottom: 60px;
+    }
 }
 /*MEDIA END*/
