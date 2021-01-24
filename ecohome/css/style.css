@@ -47,10 +47,10 @@ body {
 .main__header {
     height: 100vh;
     width: 100%;
-    background: url(../img/bg2.jpg) no-repeat;
+    background: url(../img/bg3.jpg) no-repeat;
     background-size: cover;
     max-height: 750px;
-    background-position: center -80px;
+    background-position: right -50px;
     position: relative;
 }
 .main__headerMask {
@@ -508,6 +508,9 @@ body {
     }
     .main__contactItem {
         margin: 10px;
+    }
+    .main__header {
+        background-position: -450px center;
     }
 }
 @media screen and (max-width: 480px) {
